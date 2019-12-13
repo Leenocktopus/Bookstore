@@ -1,2 +1,4 @@
 # Default ignored files
 /workspace.xml
+/Logic.__init__.py
+/UserInterface.__init__.py
